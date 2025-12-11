@@ -1,5 +1,11 @@
 # Lunar Rover Rocker‑Bogie Suspension (OENG1250)
 
+<p align="center">
+  <img src="images/DetailedSusepnsionDesignLunarRover.jpg" alt="Lunar rover suspension CAD" width="600">
+</p>
+
+> First‑year mechatronics design project focused on lunar rover suspension at RMIT University.
+
 This repository contains my individual design work for the suspension subsystem of a lunar rover, completed in first year Mechatronics Engineering at RMIT University. The goal was to design a rocker‑bogie suspension that allows a 20 kg rover to traverse uneven lunar terrain while meeting strict constraints on mass, dimensions and ground clearance.
 
 ## Project overview
@@ -32,11 +38,10 @@ My task was to design the rocker‑bogie suspension that supports the rover, kee
 - Created preliminary and detailed CAD models, including the suspension assembly and its interfaces with wheels, body and drive struts.  
 - Contributed to the rover sub‑assembly to check clearances and fit with adjacent subsystems.  
 
- ## What is in this repository
+## What is in this repository
 
-
-- `docs/` – Exported pages from the design journal.  
-- `images/` – JPEG renders of the CAD model. 
+- `docs/` – Selected pages from the individual design journal (problem statement, brainstorming & concept development, and technical sketches).  
+- `images/` – JPEG renders and screenshots of the curved rocker‑bogie suspension and rover sub‑assembly.  
 
 ## Key design decisions
 
