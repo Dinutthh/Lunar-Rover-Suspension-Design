@@ -32,7 +32,11 @@ My task was to design the rocker‑bogie suspension that supports the rover, kee
 - Created preliminary and detailed CAD models, including the suspension assembly and its interfaces with wheels, body and drive struts.  
 - Contributed to the rover sub‑assembly to check clearances and fit with adjacent subsystems.  
 
- 
+ ## What is in this repository
+
+
+- `docs/` – Exported pages from the design journal.  
+- `images/` – JPEG renders of the CAD model. 
 
 ## Key design decisions
 
